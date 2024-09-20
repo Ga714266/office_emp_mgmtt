@@ -31,7 +31,6 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/office-employee-management.git
 cd office-employee-management
 Set Up Virtual Environment (optional but recommended):
 
